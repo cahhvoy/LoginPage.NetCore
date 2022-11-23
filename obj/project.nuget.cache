@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1S86c/GfZfZtFrGGRXD5QHwrGYZnO+T8QpRb52ndRxb9qc8HqOsna5B25Kad54dN8PkGhogF9oQxqJwWO54FA==",
+  "success": true,
+  "projectFilePath": "A:\\_visual studio\\Visual Studio 2019\\Projects\\LoginPageWpf.NetCore\\LoginPageWpf.NetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camille\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\camille\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
